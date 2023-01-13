@@ -28,7 +28,8 @@ export abstract class Employee {
            }
          }
         abstract  computeSalary(): number;
-         
+
+               
 
 
 
